@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>Icons/menuBar/File/new.png</file>
+        <file>Icons/menuBar/File/open.png</file>
+        <file>Icons/menuBar/File/save.png</file>
+        <file>Icons/menuBar/File/exit.png</file>
+        <file>Icons/menuBar/Control/plot.png</file>
+        <file>Icons/menuBar/Control/run.png</file>
+        <file>Icons/menuBar/Control/pause.png</file>
+        <file>Icons/menuBar/Control/stop.png</file>
+        <file>Icons/menuBar/Configure/setting.png</file>
+        <file>Icons/menuBar/Help/about.png</file>
+        <file>Icons/picoSerialPlotter.png</file>
+        <file>Icons/menuBar/Configure/plotSetting.png</file>
+        <file>Icons/menuBar/Configure/portSetting.png</file>
+    </qresource>
+</RCC>
